@@ -1,4 +1,22 @@
+@import url('fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap');
 @import "./reset.css";
+@import "./header.css";
+@import "./main.css";
+
+
+
 body {
-    background-color: blanchedalmond;
+    font-family: 'Lato' , sans-serif;
+    background-color: black;
+    color: white;
 }
+
+.container {
+    max-width: 1142px;
+    padding: 0 40px;
+    margin: 0 auto;
+}
+
+
+
+
